@@ -15,18 +15,20 @@
 💻 Full Stack MERN Developer passionate about building modern, scalable, and responsive web applications.
 
 ⚡ Strong focus on:
-- Frontend Development
-- Backend APIs
-- Database Design
-- Clean UI/UX
-- Performance Optimization
+
+* Frontend Development
+* Backend APIs
+* Database Design
+* Clean UI/UX
+* Performance Optimization
 
 🌱 Currently improving skills in:
-- Advanced React.js
-- Backend Architecture
-- Authentication & Security
-- Scalable System Design
-- DevOps & Deployment
+
+* Advanced React.js
+* Backend Architecture
+* Authentication & Security
+* Scalable System Design
+* DevOps & Deployment
 
 🎯 Goal:
 To contribute to impactful products and grow as a Software Engineer in a high-performance development environment.
@@ -38,15 +40,19 @@ To contribute to impactful products and grow as a Software Engineer in a high-pe
 <div align="center">
 
 ## Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
 ## Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ## Database
+
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 ## Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
 
 </div>
@@ -55,37 +61,77 @@ To contribute to impactful products and grow as a Software Engineer in a high-pe
 
 # 📌 Featured Projects
 
+## 🔹 News Scraper MERN App
+
+Advanced news scraping application built using the MERN stack that fetches and displays real-time news from multiple sources with a clean and responsive interface.
+
+### Features
+
+* Real-Time News Fetching
+* Web Scraping Automation
+* Category-Based News Filtering
+* Responsive UI Design
+* Fast Data Rendering
+* REST API Integration
+
+### Tech Stack
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Cheerio / Axios
+
+---
+
+## 🔹 AI Chatbot MERN App
+
+AI-powered chatbot application built using the MERN stack with real-time messaging and intelligent conversational responses.
+
+### Features
+
+* Real-Time Chat System
+* AI-Powered Responses
+* Responsive UI Design
+* Secure Authentication
+* REST API Integration
+* Clean and Modern Interface
+
+### Tech Stack
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* OpenAI API
+
+---
+
 ## 🔹 Portfolio Website
+
 Modern and fully responsive developer portfolio built using React.js and Tailwind CSS.
 
 ### Features
-- Responsive Design
-- Smooth Animations
-- Project Showcase
-- Contact Form
-- Optimized Performance
+
+* Responsive Design
+* Smooth Animations
+* Project Showcase
+* Contact Form
+* Optimized Performance
 
 ---
 
 ## 🔹 MERN Stack Applications
+
 Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
 
 ### Includes
-- Authentication System
-- REST APIs
-- CRUD Operations
-- MongoDB Integration
-- Protected Routes
 
----
-
-## 🔹 Calculator App
-Interactive calculator with clean UI and JavaScript logic handling.
-
----
-
-## 🔹 Registration Form UI
-Responsive form design with modern CSS styling and validation.
+* Authentication System
+* REST APIs
+* CRUD Operations
+* MongoDB Integration
+* Protected Routes
 
 ---
 
