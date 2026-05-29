@@ -1,95 +1,173 @@
-# Hi there, I'm Vaibhav Anand 👋
+<div align="center">
 
-## 🚀 Full Stack MERN Developer
+# 👋 Hi, I'm Vaibhav Anand
 
-Passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications.  
-I enjoy creating modern frontend interfaces and powerful backend systems while continuously learning new technologies.
+### 🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Passionate+About+Modern+Web+Technologies;Always+Learning+New+Things+🚀" />
 
-# 💻 Tech Stack
-
-## Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Bootstrap
-
-## Backend
-- Node.js
-- Express.js
-
-## Database
-- MongoDB
-- Mongoose
-
-## Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-- Firebase
-- Vercel
-- Netlify
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 💫 About Me
 
-- Advanced React Patterns
+💻 Full Stack MERN Developer passionate about building modern, scalable, and responsive web applications.
+
+⚡ Strong focus on:
+- Frontend Development
+- Backend APIs
+- Database Design
+- Clean UI/UX
+- Performance Optimization
+
+🌱 Currently improving skills in:
+- Advanced React.js
 - Backend Architecture
 - Authentication & Security
-- API Optimization
-- Deployment & DevOps
+- Scalable System Design
+- DevOps & Deployment
+
+🎯 Goal:
+To contribute to impactful products and grow as a Software Engineer in a high-performance development environment.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Tech Stack
 
-## 🔹 Registration Form
-Responsive registration form with validation using HTML, CSS, and JavaScript.
+<div align="center">
+
+## Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+## Database
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+## Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
 
 ## 🔹 Portfolio Website
-Modern developer portfolio showcasing projects, skills, and contact information.
+Modern and fully responsive developer portfolio built using React.js and Tailwind CSS.
 
-## 🔹 Calculator App
-Interactive calculator application built using JavaScript.
+### Features
+- Responsive Design
+- Smooth Animations
+- Project Showcase
+- Contact Form
+- Optimized Performance
+
+---
 
 ## 🔹 MERN Stack Applications
-Full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
+
+### Includes
+- Authentication System
+- REST APIs
+- CRUD Operations
+- MongoDB Integration
+- Protected Routes
 
 ---
 
-# 📈 GitHub Stats
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+## 🔹 Calculator App
+Interactive calculator with clean UI and JavaScript logic handling.
 
 ---
 
-# 🔥 Streak Stats
+## 🔹 Registration Form UI
+Responsive form design with modern CSS styling and validation.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-## LinkedIn
-[Vaibhav Anand](https://www.linkedin.com/in/vaibhav-anand-37b996253)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-anand-37b996253">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
-# 🎯 Goals
+# 💡 Developer Mindset
 
-- Become an excellent Full Stack Engineer
-- Build scalable real-world products
-- Contribute to Open Source
-- Master System Design & Backend Development
+```javascript
+const vaibhav = {
+    code: ["JavaScript", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React.js", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB"]
+    },
+    currentFocus: "Building scalable full stack web applications",
+    challenge: "Improving every single day 🚀"
+};
+```
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Quote
 
-I love turning ideas into real web applications using the MERN stack 🚀
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<div align="center">
+
+## 🚀 Open To Internship & Full-Time Opportunities
+
+</div>
