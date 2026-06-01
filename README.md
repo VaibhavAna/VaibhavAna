@@ -154,17 +154,6 @@ Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7" />
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
@@ -203,8 +192,6 @@ const vaibhav = {
     challenge: "Improving every single day 🚀"
 };
 ```
-
----
 
 # ⚡ Quote
 
