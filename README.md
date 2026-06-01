@@ -123,123 +123,38 @@ Modern and fully responsive developer portfolio built using React.js and Tailwin
 
 ## 🔹 RedRoom – Smart Price Comparison & Tracking Platform
 
-RedRoom is a full-stack MERN application that compares product prices across multiple e-commerce platforms and helps users track price changes in real time.
+RedRoom is a MERN stack application that helps users compare product prices across multiple e-commerce platforms and track price changes over time.
 
 ## 🚀 Features
 
-### Product Price Comparison
-
-* Compare prices across multiple e-commerce websites
-* Display the lowest available price
-* Highlight the best deal automatically
-* Compare product prices from Amazon, Flipkart, Myntra, Ajio, and more
-
-### Price Tracking
-
-* Track product prices over time
-* Store historical price data
+* Compare prices from Amazon, Flipkart, Myntra, Ajio, and more
+* Identify the lowest available price instantly
+* Track product price history
 * Monitor daily, weekly, and monthly price changes
-* Maintain complete price history
-
-### Price Drop Alerts
-
-* Detect price drops automatically
-* Notify users when a tracked product becomes cheaper
-* Show previous price vs current price
-* Highlight the website offering the lowest price
-
-### Product Management
-
-* Add products to tracking list
-* Update product information
-* Remove products from tracking
-* Manage tracked products efficiently
-
-### Authentication & Authorization
-
-* User Registration
-* User Login
-* JWT Authentication
-* Protected Routes
-* User-specific product tracking
-
-### Dashboard & Analytics
-
-* Product comparison dashboard
-* Price history visualization
-* Best deal recommendations
-* Price trend analysis
-
-### REST APIs
-
-* Product APIs
-* User APIs
-* Price Tracking APIs
-* Authentication APIs
-
-### Database Integration
-
-* MongoDB Database
-* Product Collection
-* User Collection
-* Price History Collection
+* Get notified about price drops
+* View previous vs current prices
+* Discover the best deals across platforms
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend:** React.js, Tailwind CSS, Axios
 
-* React.js
-* React Router
-* Axios
-* Tailwind CSS
+**Backend:** Node.js, Express.js
 
-### Backend
+**Database:** MongoDB, Mongoose
 
-* Node.js
-* Express.js
+**Authentication:** JWT, bcrypt
 
-### Database
+**Tools:** Nodemon, Dotenv, CORS, Node Cron
 
-* MongoDB
-* Mongoose
+## 🏗️ Architecture
 
-### Authentication
+MVC (Model–View–Controller)
 
-* JWT
-* bcrypt
+## 🎯 Goal
 
-### Additional Tools
+Build a scalable price intelligence platform that helps users find the best deals and track product prices in real time.
 
-* Nodemon
-* Dotenv
-* CORS
-* Node Cron (for scheduled price updates)
-
-## 📂 Architecture
-
-MVC Architecture
-
-* Models
-* Views (React Frontend)
-* Controllers
-* Routes
-* Services
-* Middleware
-
-## 🔮 Upcoming Features
-
-* Multi-platform price comparison
-* Real-time notifications
-* Email alerts
-* Wishlist management
-* Browser extension
-* AI-based price prediction
-* Product search and filtering
-* Advanced analytics dashboard
-
-## 🎯 Project Goal
-
-Build a scalable price intelligence platform that helps users find the best deals, monitor price fluctuations, and receive instant alerts whenever product prices drop.
 
 ---
 
