@@ -134,14 +134,13 @@ Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
 * Protected Routes
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_VaibhavAna&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavAna&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_VaibhavAna&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavAna&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -151,16 +150,17 @@ Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=VaibhavAna&theme=tokyonight" />
 
 </div>
+
 ---
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavAna&theme=tokyo-night" />
 
 </div>
 
@@ -172,6 +172,10 @@ Full Stack applications using MongoDB, Express.js, React.js, and Node.js.
 
 <a href="https://www.linkedin.com/in/vaibhav-anand-37b996253">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/VaibhavAna">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 </div>
