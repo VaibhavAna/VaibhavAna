@@ -135,21 +135,13 @@ RedRoom is a MERN stack application that helps users compare product prices acro
 * View previous vs current prices
 * Discover the best deals across platforms
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-**Frontend:** React.js, Tailwind CSS, Axios
-
-**Backend:** Node.js, Express.js
-
-**Database:** MongoDB, Mongoose
-
-**Authentication:** JWT, bcrypt
-
-**Tools:** Nodemon, Dotenv, CORS, Node Cron
-
-## 🏗️ Architecture
-
-MVC (Model–View–Controller)
+* Frontend:** React.js, Tailwind CSS, Axios
+* Backend:** Node.js, Express.js
+* Database:** MongoDB, Mongoose
+* Authentication:** JWT, bcrypt
+* Tools:** Nodemon, Dotenv, CORS, Node Cron
 
 ## 🎯 Goal
 
